@@ -5,7 +5,7 @@ This committee's mission is to provide valuable statistics, visualizations, and 
 ### Important data resources:
 
 ### DataUSA
-_Comprehensive and powerful aggregate of 10 openly accessible data sources_
+Comprehensive and powerful aggregate of 10 openly accessible data sources
 Examples: https://datausa.io/profile/geo/san-jose-ca/
 Dataset Sources: https://datausa.io/about/datasets/
 API GitHub: https://github.com/DataUSA/datausa-api/wiki
