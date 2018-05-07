@@ -13,19 +13,19 @@ For usage, please check our [wiki](https://github.com/svdsa-org/Data-Science-for
 _Comprehensive and powerful aggregate of 10 openly accessible data sources_  
 [Examples](https://datausa.io/profile/geo/san-jose-ca/),
 [Dataset Sources](https://datausa.io/about/datasets/),
-[API GitHub](https://github.com/DataUSA/datausa-api/wiki)
+[GitHub](https://github.com/DataUSA/datausa-api/wiki)
 
 #### Open Data Portals
 _City specific data on housing, development, traffic, police records, and more_  
-San Jose: https://data.sanjoseca.gov/home
+[Website](https://data.sanjoseca.gov/home)
 
 #### VTA Open Data
 _VTA data on transit operations, highways and roads, finance, and active transportation_  
-https://data.vta.org/
+[Website](https://data.vta.org/)
 
 #### Santa Clara County GIS Data
-http://prod-sccgov.opendata.arcgis.com/  
-https://www.sccgov.org/sites/gis/gisdata/pages/available-gis-data.aspx
+[Website](http://prod-sccgov.opendata.arcgis.com/),
+[Website](https://www.sccgov.org/sites/gis/gisdata/pages/available-gis-data.aspx)
 
 #### Code For San Jose
-https://github.com/codeforsanjose
+[Github](https://github.com/codeforsanjose)
